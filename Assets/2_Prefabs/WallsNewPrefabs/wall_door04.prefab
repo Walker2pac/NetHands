@@ -261,6 +261,26 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Stena
       objectReference: {fileID: 0}
+    - target: {fileID: -502555006700110160, guid: f4ebb9b7431262942ad36b8df9b68b58,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d334019797d53444ba607f491ffc27f, type: 2}
+    - target: {fileID: -502555006700110160, guid: f4ebb9b7431262942ad36b8df9b68b58,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2178a2dd8da1f45458c691360fd37986, type: 2}
+    - target: {fileID: -502555006700110160, guid: f4ebb9b7431262942ad36b8df9b68b58,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06a0f1eeb30366e46bf8c2a9e11bc2e8, type: 2}
+    - target: {fileID: -502555006700110160, guid: f4ebb9b7431262942ad36b8df9b68b58,
+        type: 3}
+      propertyPath: m_Materials.Array.data[3]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57630d962fb4e4e419fc3241d228856e, type: 2}
     - target: {fileID: 919132149155446097, guid: f4ebb9b7431262942ad36b8df9b68b58,
         type: 3}
       propertyPath: m_Name
@@ -271,6 +291,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 2.5
       objectReference: {fileID: 0}
+    - target: {fileID: 8851991777582399378, guid: f4ebb9b7431262942ad36b8df9b68b58,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57630d962fb4e4e419fc3241d228856e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4ebb9b7431262942ad36b8df9b68b58, type: 3}
 --- !u!1 &7735921959224926048 stripped

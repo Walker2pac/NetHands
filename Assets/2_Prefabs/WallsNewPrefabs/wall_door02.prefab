@@ -223,6 +223,26 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Stena
       objectReference: {fileID: 0}
+    - target: {fileID: -5952316015508663961, guid: d5018b2a3d235d046a5b64d044a361b9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57630d962fb4e4e419fc3241d228856e, type: 2}
+    - target: {fileID: -3635140313275771311, guid: d5018b2a3d235d046a5b64d044a361b9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2178a2dd8da1f45458c691360fd37986, type: 2}
+    - target: {fileID: -3635140313275771311, guid: d5018b2a3d235d046a5b64d044a361b9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06a0f1eeb30366e46bf8c2a9e11bc2e8, type: 2}
+    - target: {fileID: -3635140313275771311, guid: d5018b2a3d235d046a5b64d044a361b9,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57630d962fb4e4e419fc3241d228856e, type: 2}
     - target: {fileID: 919132149155446097, guid: d5018b2a3d235d046a5b64d044a361b9,
         type: 3}
       propertyPath: m_Name
